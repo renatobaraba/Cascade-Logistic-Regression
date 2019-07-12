@@ -1,0 +1,61 @@
+Filename: JDT_R2_0.csv
+Borders: 0.1 and 0.9
+
+Precision without cascade: 0.707865
+
+Precision with cascade: 0.711808
+
+Filename: JDT_R2_0.csv
+Borders: 0.2 and 0.8
+
+Precision without cascade: 0.741046
+
+Precision with cascade: 0.739612
+
+Filename: JDT_R2_0.csv
+Borders: 0.3 and 0.7
+
+Precision without cascade: 0.666667
+
+Precision with cascade: 0.681528
+
+Filename: JDT_R2_0.csv
+Borders: 0.4 and 0.6
+
+Precision without cascade: 0.727776
+
+Precision with cascade: 0.721928
+
+Filename: JDT_R2_0.csv
+Borders: 0.5 and 0.5
+
+Precision without cascade: 0.707865
+
+Precision with cascade: 0.711808
+
+Filename: JDT_R2_0.csv
+Borders: 0.6 and 0.4
+
+Precision without cascade: 0.741046
+
+Precision with cascade: 0.739612
+
+Filename: JDT_R2_0.csv
+Borders: 0.7 and 0.3
+
+Precision without cascade: 0.666667
+
+Precision with cascade: 0.681528
+
+Filename: JDT_R2_0.csv
+Borders: 0.8 and 0.2
+Precision without cascade: 0.727776
+
+Precision with cascade: 0.721928
+
+Filename: JDT_R2_0.csv
+Borders: 0.9 and 0.1
+
+Precision without cascade: 0.734021
+
+Precision with cascade: 0.739025
